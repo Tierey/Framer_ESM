@@ -1,0 +1,17 @@
+.swatch {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: center;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+.topline,
+.topline2 {
+  display: flex;
+  justify-content: space-between;
+}
+.topline2 {
+  color: black;
+}

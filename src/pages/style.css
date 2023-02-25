@@ -1,0 +1,12 @@
+.page {
+}
+.products-page {
+  display: flex;
+  justify-content: space-between;
+}
+.filters {
+  width: 35%;
+}
+.products {
+  width: 64%;
+}

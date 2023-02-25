@@ -1,0 +1,39 @@
+body,
+html,
+#root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.app {
+  height: 100%;
+  display: grid;
+  place-items: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: #272727;
+  color: coral;
+}
+a {
+  color: limegreen;
+}
